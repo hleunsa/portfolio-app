@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.header__link {
+    padding: $s-size;
+}
